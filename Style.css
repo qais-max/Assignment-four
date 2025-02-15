@@ -1,0 +1,20 @@
+@import url("utility.css");
+*{
+  padding: 0;
+  margin:0 ;
+  box-sizing: border-box;
+  /*outline:1px solid red;*/
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  font-size: 1.6rem;
+}
+.container{
+  height: 100vh;
+}
+.parent{
+  height: 70vh;
+  width: 60%;
+}
