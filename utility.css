@@ -54,3 +54,6 @@
 .color4{
   background-color: rgb(236, 93, 105);
 }
+.dcol{
+  flex-direction: column;
+}
